@@ -108,13 +108,13 @@ Information about development is also available:
    issue-labels
    security
 
-.. _business-docs:
+.. _commercial-docs:
 
 .. toctree::
    :maxdepth: 2
-   :caption: Business Documentation
+   :caption: Commercial Documentation
 
-   business/index
+   commercial/index
 
 .. _custom-docs:
 
